@@ -1,0 +1,8 @@
+Trac Nghiem:
+C1: B
+C2: C
+C3: D
+C4:C
+C5:D
+C6: C
+C7:C
